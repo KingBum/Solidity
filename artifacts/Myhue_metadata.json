@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Myhue.sol": "Myhue"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Myhue.sol": {
+			"keccak256": "0x5fc626f670dbec85ab76df50765c00027a9cdb1077ef4fe8978d49d47a843d99",
+			"urls": [
+				"bzz-raw://4f2111d21c71824d46718852f74f0ab2e4a2e7f6e323054616484c172e0b385f",
+				"dweb:/ipfs/QmXpQzvEPPXBmG3cXZQRwn9eSKkdEFaKUDA2BQRtM3hsCb"
+			]
+		}
+	},
+	"version": 1
+}
